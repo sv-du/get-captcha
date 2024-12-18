@@ -1,0 +1,9 @@
+name = "getcaptcha"
+main = "src/index.ts"
+compatibility_date = "2023-02-14"
+node_compat = true
+
+[vars]
+API_KEY = "CHANGE_THIS"
+username = "CHANGE_THIS"
+password = "CHANGE_THIS"
